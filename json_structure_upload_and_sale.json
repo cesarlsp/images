@@ -1,0 +1,44 @@
+{
+     "nft": [
+      {
+        "file_path": "C:/Documents/Desarrollo de Software/NFTs-Project/nft-automator/resources/skulls1.png",
+        "nft_name": "NFT test skull #1",
+        "external_link": "",
+        "description": "skull to test one",
+        "collection": "estaprueba",
+        "properties": "",
+        "levels": "",
+        "stats": "",
+        "unlockable_content": "",
+        "explicit_and_sensitive_content": "",
+        "supply": "",
+        "blockchain": "polygon",
+        "sale_type": "",
+        "price": 0.02,
+        "method": "",
+        "duration": "1 month",
+        "specific_buyer": "",
+        "quantity": ""
+      },
+      {
+        "file_path": "C:/Documents/Desarrollo de Software/NFTs-Project/nft-automator/resources/skulls2.png",
+        "nft_name": "NFT test skull #2",
+        "external_link": "",
+        "description": "skull to test two",
+        "collection": "estaprueba",
+        "properties": "",
+        "levels": "",
+        "stats": "",
+        "unlockable_content": "",
+        "explicit_and_sensitive_content": "",
+        "supply": "",
+        "blockchain": "polygon",
+        "sale_type": "",
+        "price": 0.02,
+        "method": "",
+        "duration": "1 month",
+        "specific_buyer": "",
+        "quantity": ""
+      }
+     ]
+   }
