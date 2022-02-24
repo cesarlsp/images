@@ -7,19 +7,47 @@
         "external_link": "",
         "description": "skull to test one",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls2.png",
@@ -28,19 +56,47 @@
         "external_link": "",
         "description": "skull to test two",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls1.png",
@@ -49,19 +105,47 @@
         "external_link": "",
         "description": "skull to test one",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls2.png",
@@ -70,19 +154,47 @@
         "external_link": "",
         "description": "skull to test two",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls1.png",
@@ -91,19 +203,47 @@
         "external_link": "",
         "description": "skull to test one",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls2.png",
@@ -112,19 +252,47 @@
         "external_link": "",
         "description": "skull to test two",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls1.png",
@@ -133,19 +301,47 @@
         "external_link": "",
         "description": "skull to test one",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls2.png",
@@ -154,19 +350,47 @@
         "external_link": "",
         "description": "skull to test two",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls1.png",
@@ -175,19 +399,47 @@
         "external_link": "",
         "description": "skull to test one",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls2.png",
@@ -196,19 +448,47 @@
         "external_link": "",
         "description": "skull to test two",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls1.png",
@@ -217,19 +497,47 @@
         "external_link": "",
         "description": "skull to test one",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls2.png",
@@ -238,19 +546,47 @@
         "external_link": "",
         "description": "skull to test two",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls1.png",
@@ -259,19 +595,47 @@
         "external_link": "",
         "description": "skull to test one",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls2.png",
@@ -280,19 +644,47 @@
         "external_link": "",
         "description": "skull to test two",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls1.png",
@@ -301,19 +693,47 @@
         "external_link": "",
         "description": "skull to test one",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls2.png",
@@ -322,19 +742,47 @@
         "external_link": "",
         "description": "skull to test two",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls1.png",
@@ -343,19 +791,47 @@
         "external_link": "",
         "description": "skull to test one",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls2.png",
@@ -364,19 +840,47 @@
         "external_link": "",
         "description": "skull to test two",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls1.png",
@@ -385,19 +889,47 @@
         "external_link": "",
         "description": "skull to test one",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls2.png",
@@ -406,19 +938,47 @@
         "external_link": "",
         "description": "skull to test two",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls1.png",
@@ -427,19 +987,47 @@
         "external_link": "",
         "description": "skull to test one",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls2.png",
@@ -448,19 +1036,47 @@
         "external_link": "",
         "description": "skull to test two",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls1.png",
@@ -469,19 +1085,47 @@
         "external_link": "",
         "description": "skull to test one",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls2.png",
@@ -490,19 +1134,47 @@
         "external_link": "",
         "description": "skull to test two",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls1.png",
@@ -511,19 +1183,47 @@
         "external_link": "",
         "description": "skull to test one",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls2.png",
@@ -532,19 +1232,47 @@
         "external_link": "",
         "description": "skull to test two",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls1.png",
@@ -553,19 +1281,47 @@
         "external_link": "",
         "description": "skull to test one",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls2.png",
@@ -574,19 +1330,47 @@
         "external_link": "",
         "description": "skull to test two",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls1.png",
@@ -595,19 +1379,47 @@
         "external_link": "",
         "description": "skull to test one",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       },
       {
         "file_path": "https://raw.githubusercontent.com/cesarlsp/images/main/skulls2.png",
@@ -616,19 +1428,47 @@
         "external_link": "",
         "description": "skull to test two",
         "collection": "estaprueba",
-        "properties": "",
-        "levels": "",
-        "stats": "",
-        "unlockable_content": "",
-        "explicit_and_sensitive_content": "",
-        "supply": "",
+        "properties": [
+                {
+                    "type": "Dog",
+                    "name": "Male"
+                }
+            ],
+        "levels": [
+                {
+                    "name": "Speed",
+                    "from": 2,
+                    "to": 5
+                }
+            ],
+        "stats": [
+                {
+                    "name": "Strenght",
+                    "from": 10,
+                    "to": 100
+                }
+            ],
+        "unlockable_content": [
+                false,
+                ""
+            ],
+        "explicit_and_sensitive_content": false,
+        "supply": 1,
         "blockchain": "polygon",
         "sale_type": "",
         "price": 0.02,
-        "method": "",
-        "duration": "1 month",
-        "specific_buyer": "",
-        "quantity": ""
+        "method": [
+                "Sell with declining price",
+                0.002
+            ],
+        "duration": [
+                "3 days"
+            ],
+        "specific_buyer": [
+          false,
+          ""
+        ],
+        "quantity": 1
       }
      ]
    }
